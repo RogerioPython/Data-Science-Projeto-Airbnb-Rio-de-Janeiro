@@ -101,7 +101,7 @@ Temos bases de abril de 2018 a maio de 2020, com exceção de junho de 2018 que 
 # Análise do Melhor Modelo
 ![aj](https://user-images.githubusercontent.com/35857120/200098574-72a0b17b-28bd-4e87-8fff-8a6db2e3485d.PNG)
 ##
-# Modelo Vencedor "ExtraTreesRegressor"
+# Modelo Vencedor "ExtraTrees"
 ##
 # Ajustes e Melhorias no Melhor Modelo
 ![Ajustes e Melhorias no Melhor Modelo](https://user-images.githubusercontent.com/35857120/200098477-1c5104ce-ffea-490c-b8aa-a35267cfff91.PNG)
